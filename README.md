@@ -6,9 +6,9 @@ Each assignment combines **analytical design**, **MATLAB modelling** and, where 
 
 | HW | Topic | Highlights |
 |---|---|---|
-| [1](hw1-rectangular-waveguide/) | Rectangular waveguide (ε<sub>r</sub> = 3), TE<sub>2,4</sub> mode | Cutoff of 23 modes; TE<sub>2,4</sub> f<sub>c</sub> = 4.463 GHz (MATLAB) vs 4.459 GHz (CST), < 0.1 % apart; dispersion and intermodal delay; **modal-filter design** with a PEC wall and slot |
-| [2](hw2-branchline-coupler/) | Unequal-split branch-line coupler in microstrip (f<sub>0</sub> = 1.29 GHz, 80 Ω ports) | Even/odd-mode ABCD derivation of Z<sub>01</sub> = 154.4 Ω and Z<sub>02</sub> = 71.0 Ω; Hammerstad synthesis; MATLAB S-parameters; ±5 % tolerance Monte Carlo; CST verification |
-| [4](hw4-impedance-matching/) | Matching 533 Ω to 50 Ω at 1.953 GHz | Single-stub (2 solutions), L-section lumped (2 solutions), 3- and 4-section binomial transformers; bandwidth comparison at Γ<sub>m</sub> < 0.025 |
+| [1](rectangular-waveguide/) | Rectangular waveguide (ε<sub>r</sub> = 3), TE<sub>2,4</sub> mode | Cutoff of 23 modes; TE<sub>2,4</sub> f<sub>c</sub> = 4.463 GHz (MATLAB) vs 4.459 GHz (CST), < 0.1 % apart; dispersion and intermodal delay; **modal-filter design** with a PEC wall and slot |
+| [2](branchline-coupler/) | Unequal-split branch-line coupler in microstrip (f<sub>0</sub> = 1.29 GHz, 80 Ω ports) | Even/odd-mode ABCD derivation of Z<sub>01</sub> = 154.4 Ω and Z<sub>02</sub> = 71.0 Ω; Hammerstad synthesis; MATLAB S-parameters; ±5 % tolerance Monte Carlo; CST verification |
+| [4](impedance-matching/) | Matching 533 Ω to 50 Ω at 1.953 GHz | Single-stub (2 solutions), L-section lumped (2 solutions), 3- and 4-section binomial transformers; bandwidth comparison at Γ<sub>m</sub> < 0.025 |
 
 ## Skills demonstrated
 
