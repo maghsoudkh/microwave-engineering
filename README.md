@@ -20,3 +20,7 @@ Each assignment starts from an analytical design, models it in MATLAB and, where
 Each folder has the report PDF, its LaTeX source in `latex/` and the main figures.
 
 Author: Amirkhashayar Maghsoud
+
+## License
+
+The reports, their LaTeX sources, the figures and the text are licensed under [CC BY 4.0](LICENSE). You may reuse them with credit to the author.
